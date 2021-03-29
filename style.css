@@ -2,12 +2,12 @@ body {
     background: rgb(146, 122, 255);
   }
   .header {
-    background-color: whitesmoke;
     padding: 20px;
     text-align: center;
   } 
 
   .header h1 {
     font-size: 70px;
+    font-family:'Franklin Gothic Medium'; 
     font-family: cursive;
   }
